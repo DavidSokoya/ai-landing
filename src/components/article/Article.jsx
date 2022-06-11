@@ -1,6 +1,5 @@
 import React from 'react';
 import './article.css';
-import blog1 from '../../assets/blog01.png'
 
 const Article = ({imageUrl, date, title}) => {
   return (
